@@ -21,14 +21,14 @@
 
 * **Git diff** - *Разница между текущем файлом и сохранением*
 
-Git branch - Выводит список веток в репозитории
+* **Git branch** - *Выводит список веток в репозитории*
 
-Git branch New_branch_name - Создаёт новую ветку
+* **Git branch _New_branch_name_** - *Создаёт новую ветку*
 
-Git branch -d New_branch_name - удаляет ветку с указанным именем
+* **Git branch -d _New_branch_name_** - *Удаляет ветку с указанным именем*
 
-Git checkout branch_name - Переходит на ветку branch_name
+* **Git checkout _branch_name_** - *Переходит на ветку branch_name*
 
-Git logg --graph - Выводит список коммитов в виде дерева
+* **Git logg --graph** - *Выводит список коммитов в виде дерева*
 
-Git mer@@@ge branch_name - Сливает branch_name с текущей веткой
+* **Git merge _branch_name_** - *Сливает branch_name с текущей веткой*
