@@ -20,3 +20,15 @@
 * **Git checkout master** - *Возвращает в редактирование файла*
 
 * **Git diff** - *Разница между текущем файлом и сохранением*
+
+Git branch - Выводит список веток в репозитории
+
+Git branch New_branch_name - Создаёт новую ветку
+
+Git branch -d New_branch_name - удаляет ветку с указанным именем
+
+Git checkout branch_name - Переходит на ветку branch_name
+
+Git logg --graph - Выводит список коммитов в виде дерева
+
+Git merge branch_name - Сливает branch_name с текущей веткой
