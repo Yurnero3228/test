@@ -31,4 +31,4 @@ Git checkout branch_name - Переходит на ветку branch_name
 
 Git logg --graph - Выводит список коммитов в виде дерева
 
-Git merge branch_name - Сливает branch_name с текущей веткой
+Git mer@@@ge branch_name - Сливает branch_name с текущей веткой
